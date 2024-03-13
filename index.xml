@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>List of weirdest programming languages</title>
+    <link>https://zuzaosa.github.io/</link>
+    <description>Recent content on List of weirdest programming languages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://zuzaosa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/befunge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/befunge/</guid>
+      <description>Befunge - Wikipedia https://en.wikipedia.org/wiki/Befunge
+Befunge is a two-dimensional stack-based, reflective, esoteric programming language. [1] It differs from conventional languages in that programs are arranged on a two-dimensional grid. &amp;ldquo;Arrow&amp;rdquo; instructions direct the control flow to the left, right, up or down, and loops are constructed by sending the control flow in a cycle.
+Befunge - Esolang https://esolangs.org/wiki/Befunge
+File extension (s) .be, .bf, .b93, .b98, .befunge. Befunge is a two-dimensional esoteric programming language invented in 1993 by Chris Pressey with the goal of being as difficult to compile as possible.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/brainfck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/brainfck/</guid>
+      <description>Brainfuck - Wikipedia https://en.wikipedia.org/wiki/Brainfuck
+Brainfuck is an esoteric programming language created in 1993 by Urban Müller. Notable for its extreme minimalism, the language consists of only eight simple commands, a data pointer and an instruction pointer.. Brainfuck is an example of a so-called Turing tarpit: it can be used to write any program, but it is not practical to do so, because Brainfuck provides so little abstraction that the &amp;hellip;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/chicken/</guid>
+      <description>Getting started - The CHICKEN Scheme wiki https://wiki.call-cc.org/man/5/Getting started
+Getting started. CHICKEN is a compiler that translates Scheme source files into C, which in turn can be fed to a C compiler to generate a standalone executable. An interpreter is also available and can be used as a scripting environment or for testing programs before compilation. This chapter is designed to get you started with CHICKEN &amp;hellip;
+CHICKEN Scheme http://www.call-cc.org/</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/lolcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/lolcode/</guid>
+      <description>LOLCODE - Wikipedia https://en.wikipedia.org/wiki/LOLCODE
+LOLCODE is an esoteric programming language inspired by lolspeak, the language expressed in examples of the lolcat Internet meme. The language was created in 2007 by Adam Lindsay, a researcher at the Computing Department of Lancaster University.. The language is not clearly defined in terms of operator priorities and correct syntax, but several functioning interpreters and compilers exist. One &amp;hellip;
+LOLCODE Tutorial: A programming language for cat lovers - Lokalise Blog https://lokalise.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/piet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/piet/</guid>
+      <description>Piet - Esolang https://esolangs.org/wiki/Piet
+Piet is a stack-based esoteric programming language in which programs look like abstract paintings. It uses 20 colors, of which 18 are related cyclically through a lightness cycle and a hue cycle. A single stack is used for data storage, together with some unusual operations. Piet was invented by David Morgan-Mar and is named after geometric &amp;hellip;
+Gabrielle Singh Cadieux - Piet IDE - GitHub Pages https://gabriellesc.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/rockstar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/rockstar/</guid>
+      <description>rockstar : home https://codewithrockstar.com/
+Rockstar is a computer programming language designed for creating programs that are also hair metal power ballads. Here&amp;rsquo;s Fizzbuzz in Rockstar. Midnight takes your heart and your soul. While your heart is as high as your soul. Put your heart without your soul into your heart. Give back your heart.
+Rockstar - Esolang https://esolangs.org/wiki/Rockstar
+The Rockstar programming language on GitHub; Implementations. Satriani is the official reference implementation of Rockstar, written in JavaScript with peg.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/shakespeare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/shakespeare/</guid>
+      <description>Shakespeare Programming Language - Wikipedia https://en.wikipedia.org/wiki/Shakespeare_programming_language
+The Shakespeare Programming Language (SPL) is an esoteric programming language designed by Jon Åslund and Karl Wiberg. Like the Chef programming language, it is designed to make programs appear to be something other than programs — in this case, Shakespearean plays.. A character list in the beginning of the program declares a number of stacks, naturally with names like &amp;ldquo;Romeo&amp;rdquo; and &amp;ldquo;Juliet&amp;rdquo;.
+Redirecting https://shakespearelang.com/</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/trumpscript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/trumpscript/</guid>
+      <description>GitHub - samshadwell/TrumpScript: Make Python great again https://github.com/samshadwell/TrumpScript
+The grammar of the language is fairly convoluted, but here&amp;rsquo;s a taste of the enlightened decisions we&amp;rsquo;ve made. Arithmetic operators: + and plus do addition-and minus do subtraction* and times do multiplication / and over do division &amp;lt;, less, fewer, and smaller all evaluate to &amp;rsquo;less than&amp;rsquo; &amp;gt;, more, greater, and larger all evaluate to &amp;lsquo;greater than&amp;rsquo; Control flow:
+TrumpScript Tutorial (Make Programming Great Again) - YouTube https://www.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/velato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/velato/</guid>
+      <description>Velato - Esolang https://esolangs.org/wiki/Velato
+Velato is an esoteric programming language that uses MIDI files as source code. Programs in Velato are defined by the pitch and order of notes. Velato is intended to allow for flexibility in composition, so functional programs will not necessarily sound like random notes. There is a tendency for Velato programs to have jazz-like harmonies.
+Velato http://www.velato.net/
+Velato. Velato is a programming language, created by Daniel Temkin in 2009, which uses MIDI files as source code: the pattern of notes determines commands.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zuzaosa.github.io/whitespace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zuzaosa.github.io/whitespace/</guid>
+      <description>Whitespace (programming language) - Wikipedia https://en.wikipedia.org/wiki/Whitespace_(programming_language)
+Whitespace is an esoteric programming language with syntax where only whitespace characters (space, tab and linefeed) have meaning - contrasting typical languages that largely ignore whitespace characters.. As a consequence of its syntax, Whitespace source code can be contained within the whitespace of code written in a language that ignores whitespace - making the text a polyglot.
+Whitespace - Esolang https://esolangs.org/wiki/Whitespace
+Whitespace, designed in 2003 by Edwin Brady and Chris Morris, is an imperative, stack-based, esoteric programming language that uses only whitespace characters—space, tab, and linefeed—as syntax.</description>
+    </item>
+  </channel>
+</rss>
